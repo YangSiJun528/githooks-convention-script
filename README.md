@@ -9,7 +9,7 @@ _githooks-convention-script_ 은 [Conventional Commits](https://www.conventional
 1. `.git/hooks`에 [`commit-msg`](./commit-msg) 스크립트를 넣어주세요.
 2. 다음 명령어를 실행하여 [`commit-msg`](./commit-msg) 스크립트에 실행 권한을 부여합니다. `chmod +x .git/hooks/commit-msg`
 
-## How to Custom?
+## How to custom?
 
 [`commit-msg`](./commit-msg) 스크립트에서 다음과 같은 설정 값을 변경할 수 있습니다.
 
