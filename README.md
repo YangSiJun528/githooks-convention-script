@@ -25,5 +25,5 @@ types="build ci docs feat fix perf refactor style test chore"
 - min_length: 커밋 제목의 최소 길이를 설정합니다. 기본 값은 1입니다.
 - max_length: 커밋 제목의 최대 길이를 설정합니다. 기본 값은 52입니다.
 - max_line_length: 커밋 본문의 각 줄의 최대 길이를 제한합니다. 기본 값은 72입니다.
-- types=: 허용되는 커밋 유형 접두사를 나열합니다. 유효한 커밋 메시지는 이 접두사 중 하나로 시작해야 합니다. 기본 값은 `"build ci docs feat fix perf refactor style test chore"`입니다.
+- types: 허용되는 커밋 유형 접두사를 나열합니다. 유효한 커밋 메시지는 이 접두사 중 하나로 시작해야 합니다. 기본 값은 `"build ci docs feat fix perf refactor style test chore"`입니다.
 
